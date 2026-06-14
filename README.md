@@ -1,4 +1,4 @@
-# Aula 10 - Consumo de APIs: Solução Completa
+# Consumo de APIs: Solução Completa
 
 ## 📋 Descrição
 
